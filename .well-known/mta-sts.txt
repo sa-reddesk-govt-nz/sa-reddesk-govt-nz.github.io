@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: reddesk.govt.nz
+mx: reddesk-govt-nz.mail.protection.outlook.com
 max_age: 86400
